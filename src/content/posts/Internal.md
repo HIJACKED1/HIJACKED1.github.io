@@ -5,7 +5,7 @@ description: "This was an intermediate-level Linux machine that involved brute-f
 image: "./Iternal-Images/cover.jpg"
 tags: ["Jenkins", "WordPress", "PrivSec"]
 category: Web Exploitation
-draft: true
+draft: false
 ---
 
 ## Enumeration
