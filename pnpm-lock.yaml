@@ -138,6 +138,12 @@ importers:
       '@biomejs/biome':
         specifier: 1.8.3
         version: 1.8.3
+      '@iconify-json/bx':
+        specifier: ^1.2.2
+        version: 1.2.2
+      '@iconify-json/bxl':
+        specifier: ^1.2.2
+        version: 1.2.2
       '@rollup/plugin-yaml':
         specifier: ^4.1.2
         version: 4.1.2(rollup@2.79.2)
@@ -1027,6 +1033,12 @@ packages:
 
   '@fontsource/roboto@5.1.0':
     resolution: {integrity: sha512-cFRRC1s6RqPygeZ8Uw/acwVHqih8Czjt6Q0MwoUoDe9U3m4dH1HmNDRBZyqlMSFwgNAUKgFImncKdmDHyKpwdg==}
+
+  '@iconify-json/bx@1.2.2':
+    resolution: {integrity: sha512-hZVx6LMEkYckScdRdUuQWcmv8Lm2au6Cnf799TLoR6YgiAfFvaJ4M5ElwcnExvCu8ntsS7jW89r0W5LwBAfZXQ==}
+
+  '@iconify-json/bxl@1.2.2':
+    resolution: {integrity: sha512-+cSX1abFQ2Q8jK9IdLHC05luZYq3zgNFqXsiEcKyigUdIEmGQNQp4xjnsCUmOYFvHrV7C1/D0wr/Lm/stAD3tw==}
 
   '@iconify-json/fa6-brands@1.2.1':
     resolution: {integrity: sha512-b/o9bDLZCP8qJV2dydewH+OWrpqmX94b7jHYnqzKaVpbuRRQX/qA9AROsy7rqHYup8fN2fCElQHvm6OYFmjkEA==}
@@ -5851,6 +5863,14 @@ snapshots:
   '@fontsource-variable/jetbrains-mono@5.1.1': {}
 
   '@fontsource/roboto@5.1.0': {}
+
+  '@iconify-json/bx@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
+
+  '@iconify-json/bxl@1.2.2':
+    dependencies:
+      '@iconify/types': 2.0.0
 
   '@iconify-json/fa6-brands@1.2.1':
     dependencies:

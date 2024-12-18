@@ -1,9 +1,16 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+This is the demo site for [Har0xley](https://github.com/harleyv1).
 
-::github{repo="saicaca/fuwari"}
+::github{repo="harleyv1/Dark-Shell-V1"}
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+<br>
+
+Hello! I'm **Har0xley**, a passionate **Cybersecurity Professional** with a focus on **Penetration Testing** and **Red Team Operations**. I am thrilled to welcome you to my personal website! 
+
+# Certifications
+
+📌 **Jr Penetration Testing**  
+📌 **Privilege Escalation - Linux**  
+📌 **Master Python Programmer**  
+📌 **Web Fundamentals**  
+📌 **Web Application Penetration Testing**
