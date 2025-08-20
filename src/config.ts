@@ -11,12 +11,12 @@ export const siteConfig: SiteConfig = {
   subtitle: 'Hex',
   lang: 'en',         // 'en', 'zh_CN', 'zh_TW', 'ja', 'ko'
   themeColor: {
-    hue: 0,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
+    hue: 205,         // Default hue for the theme color, from 0 to 360. e.g. red: 0, teal: 200, cyan: 250, pink: 345
     fixed: true,     // Hide the theme color picker for visitors
   },
   banner: {
-    enable: true,
-    src: 'assets/images/banner.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+    enable: false,
+    src: 'assets/images/banner3.jpg',   // Relative to the /src directory. Relative to the /public directory if it starts with '/'
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
@@ -44,15 +44,15 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'TryHackMe',
-      url: 'https://tryhackme.com/r/p/Harley1',     // Internal links should not include the base path, as it is automatically added
+      url: 'https://tryhackme.com/p/HIJACKED',     // Internal links should not include the base path, as it is automatically added
       external: true,                               // Show an external link icon and will open in a new tab
     },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/0.gif',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-  name: 'Har0xley',
+  avatar: 'assets/images/logo.jpg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  name: '0xHijacked',
   bio: 'Pentest / Red Team',
   links: [
     {
@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/harleyv1',
+      url: 'https://github.com/HIJACKED1',
     },
   ],
 }
