@@ -3,10 +3,9 @@ title: WhiteRose
 published: 2024-12-01
 description: 'This challenge is based on the Mr. Robot episode "409 Conflict". Contains spoilers!'
 image: './WhiteRose-Images/cover.jpg'
-tags: ["ESJ","Sudoedit CVE", "PrivSec" ,"Server side template injection RCE"]
-category: 'Web Exploitation'
+tags: ['Web',"ESJ","Sudoedit CVE", "PrivSec" ,"Server side template injection RCE"]
+category: 'TryHackMe'
 draft: false 
-lang: ''
 ---
 
 ## Enumeration
