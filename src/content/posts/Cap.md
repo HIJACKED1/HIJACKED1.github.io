@@ -2,7 +2,7 @@
 title: Cap
 published: 2025-08-27
 description: ' Cap is an easy difficulty Linux machine running an HTTP server that performs administrative functions including performing network captures.'
-image: './Cap-Images/logo.jpg'
+image: './Cap-Images/logo1.png'
 tags: ['Linux','Web','Exploit','Privsec']
 category: 'HackTheBox'
 draft: false 
