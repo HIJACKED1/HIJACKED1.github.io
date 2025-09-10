@@ -2,9 +2,9 @@
 title: Lazy-Admin
 published: 2025-08-19
 description: 'Have some fun! There might be multiple ways to get user access.'
-image: './Lazy-Admin/lazy.jpg'
+image: ''
 tags: ["SweetRice","CVE","PrivSec"]
-category: 'Web Exploitation'
+category: 'THM'
 draft: false 
 ---
 

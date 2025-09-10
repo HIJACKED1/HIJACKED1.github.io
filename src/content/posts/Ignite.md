@@ -2,9 +2,9 @@
 title: Ignite
 published: 2025-08-26
 description: 'A new start-up has a few issues with their web server.'
-image: './Ignite-Images/logo.jpg'
+image: ''
 tags: ['CMS','PRIVSEC','SHELL','DEFAULT']
-category: 'Web Exploitation'
+category: 'THM'
 draft: false 
 ---
 

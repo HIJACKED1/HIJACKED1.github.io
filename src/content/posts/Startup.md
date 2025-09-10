@@ -2,9 +2,9 @@
 title: Startup
 published: 2022-21-07
 description: "We are Spice Hut, a new startup company that just made it big! "
-image: "./Startup-Images/cover.jpg"
+image: ""
 tags: ["Brute Force", "FTP", "Crontab"]
-category: Web Exploitation
+category: 'THM'
 draft: false
 ---
 

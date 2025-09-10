@@ -2,9 +2,9 @@
 title: The Sticker Shop
 published: 2024-12-01
 description: "Your local sticker shop has finally developed its own webpage."
-image: "./The-Sticker-Shop-Images/cover.jpg"
+image: ""
 tags: ["Blind XSS", "FeedBack", "Owasp", "Local"]
-category: Web Exploitation
+category: 'THM'
 draft: false
 ---
 

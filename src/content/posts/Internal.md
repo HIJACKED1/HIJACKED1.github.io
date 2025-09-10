@@ -2,9 +2,9 @@
 title: Internal
 published: 2022-18-04
 description: "This was an intermediate-level Linux machine that involved brute-forcing WordPress credentials ."
-image: "./Iternal-Images/cover.jpg"
+image: ""
 tags: ["Jenkins", "WordPress", "PrivSec"]
-category: Web Exploitation
+category: 'THM'
 draft: false
 ---
 

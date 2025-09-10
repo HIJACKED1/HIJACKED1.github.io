@@ -2,9 +2,9 @@
 title: Planning
 published: 2025-09-04
 description: 'HTB Planning is an easy Linux machine that highlights an RCE on Grafana, a container escape, and privilege escalation via a cronjobs service to obtain system privileges.'
-image: './Planning-images/logo.png'
+image: ''
 tags: ['Grafana','docker','Crontab','localhost']
-category: 'HackTheBox'
+category: 'HTB'
 draft: false 
 ---
 

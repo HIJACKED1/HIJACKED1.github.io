@@ -2,9 +2,9 @@
 title: Creative
 published: 2024-12-24
 description: 'Submit both the user and root flags to complete the room.'
-image: './Creative-Images/cover.jpeg'
+image: ''
 tags: ['Subdomain' ,'SSH' ,'URL', 'Hash']
-category: 'Web Exploitation'
+category: 'THM'
 draft: false 
 lang: ''
 ---
