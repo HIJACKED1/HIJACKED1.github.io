@@ -3,7 +3,7 @@ title: SSTI-with Jinja2
 published: 2025-09-10
 description: 'Explain this Vulnerability'
 image: ''
-tags: []
+tags: ['SSTI','Payload','Py']
 category: 'VULNERABILITY'
 draft: false 
 lang: ''
