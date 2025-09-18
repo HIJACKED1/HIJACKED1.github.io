@@ -1,12 +1,10 @@
 ---
 title: Soulmate
 published: 2025-09-18
-description: ''
+description: 'A walkthrough of the HackTheBox "Soulmate" machine which is Easy rated linux box. This write-up covers initial access, privilege escalation, and post-exploitation techniques.'
 image: ''
-tags: []
-category: ''
-draft: false 
-lang: ''
+tags: ['Erlang shell','Linux','Web','Exploit','Privsec']
+category: 'HTB'
 ---
 
 ## Ennumeration
