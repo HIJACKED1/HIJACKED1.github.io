@@ -1,5 +1,5 @@
 ---
-title: SSTI-with Jinja2
+title: SSTI-With Jinja2 \ PUG - NODEJS
 published: 2025-09-10
 description: 'Explain this Vulnerability'
 image: ''
