@@ -1,7 +1,7 @@
 ---
 title: Era
 published: 2025-11-14
-description: ''
+description: 'Era HTB CTF - Medium Level !'
 image: ''
 tags: ['Medium','Linux','Web','Privsec']
 category: 'HTB'
