@@ -1,5 +1,5 @@
 ---
-title: Planning
+title: Planning - 計画
 published: 2025-09-04
 description: 'HTB Planning is an easy Linux machine that highlights an RCE on Grafana, a container escape, and privilege escalation via a cronjobs service to obtain system privileges.'
 image: ''

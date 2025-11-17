@@ -1,5 +1,5 @@
 ---
-title: Jumbo
+title: Jumbo - ジャンボ
 published: 2025-09-12
 description: 'A developer from the marketing department is working on an e-commerce application built with Laravel. Your task as an AppSec specialist is to analyze the running application in the staging environment and spot vulnerabilities and their impact.'
 image: ''

@@ -1,5 +1,5 @@
 ---
-title: Previous
+title: Previous - 前の
 published: 2025-11-17
 description: ''
 image: ''

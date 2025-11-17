@@ -1,5 +1,5 @@
 ---
-title: Lazy-Admin
+title: Lazy_Admin - 怠け者の管理者
 published: 2025-08-19
 description: 'Have some fun! There might be multiple ways to get user access.'
 image: ''

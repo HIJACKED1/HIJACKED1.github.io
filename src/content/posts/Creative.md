@@ -1,5 +1,5 @@
 ---
-title: Creative
+title: Creative - クリエイティブ
 published: 2024-12-24
 description: 'Submit both the user and root flags to complete the room.'
 image: ''

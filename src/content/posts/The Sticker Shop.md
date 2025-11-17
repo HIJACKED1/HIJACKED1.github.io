@@ -1,5 +1,5 @@
 ---
-title: The Sticker Shop
+title: The Sticker Shop - ステッカーショップ
 published: 2024-12-01
 description: "Your local sticker shop has finally developed its own webpage."
 image: ""

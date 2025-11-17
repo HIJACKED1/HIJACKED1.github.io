@@ -1,5 +1,5 @@
 ---
-title: Soulmate
+title: Soulmate - ソウルメイト
 published: 2025-09-18
 description: 'A walkthrough of the HackTheBox "Soulmate" machine which is Easy rated linux box. This write-up covers initial access, privilege escalation, and post-exploitation techniques.'
 image: ''

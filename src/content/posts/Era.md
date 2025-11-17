@@ -1,5 +1,5 @@
 ---
-title: Era
+title: Era - 時代
 published: 2025-11-14
 description: 'Era HTB CTF - Medium Level !'
 image: ''

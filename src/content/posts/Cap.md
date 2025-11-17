@@ -1,5 +1,5 @@
 ---
-title: Cap
+title: Cap - キャップ
 published: 2025-08-27
 description: ' Cap is an easy difficulty Linux machine running an HTTP server that performs administrative functions including performing network captures.'
 image: ''

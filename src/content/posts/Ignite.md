@@ -1,5 +1,5 @@
 ---
-title: Ignite
+title: Ignite - 発火
 published: 2025-08-26
 description: 'A new start-up has a few issues with their web server.'
 image: ''

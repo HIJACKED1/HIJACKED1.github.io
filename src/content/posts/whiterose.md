@@ -1,5 +1,5 @@
 ---
-title: WhiteRose
+title: WhiteRose - ホワイトローズ
 published: 2024-12-01
 description: 'This challenge is based on the Mr. Robot episode "409 Conflict". Contains spoilers!'
 image: ''

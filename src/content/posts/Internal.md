@@ -1,5 +1,5 @@
 ---
-title: Internal
+title: Internal - 内部
 published: 2022-18-04
 description: "This was an intermediate-level Linux machine that involved brute-forcing WordPress credentials ."
 image: ""
